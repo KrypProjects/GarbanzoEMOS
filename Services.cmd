@@ -36,3 +36,4 @@ sc config EventLog start= disabled
 sc config Wecsvc start= disabled
 sc config WerSvc start= disabled
 sc config WalletService start= disabled
+sc config wisvc start= disabled
