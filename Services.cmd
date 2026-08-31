@@ -37,3 +37,7 @@ sc config Wecsvc start= disabled
 sc config WerSvc start= disabled
 sc config WalletService start= disabled
 sc config wisvc start= disabled
+sc stop LicenseManager
+sc config LicenseManager start= disabled
+sc config TabletInputService start= disabled
+sc config PrintNotify start= disabled
