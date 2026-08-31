@@ -4,7 +4,7 @@ echo ::::::::    ::::::::
 echo ::::::::    ::::::::
 echo ::::::::    ::::::::    
 echo ::::::::    ::::::::    OS: GarbanzoEMOS
-echo                       Release Version: 0.1
+echo                         Release Version: 0.1
 echo ::::::::    ::::::::    WM: Desktop Window Manager
 echo ::::::::    ::::::::
 echo ::::::::    :::::::: 
