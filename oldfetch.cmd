@@ -1,3 +1,4 @@
+@echo off
 :: This file was on C:\Windows
 
 echo ::::::::    :::::::: 
